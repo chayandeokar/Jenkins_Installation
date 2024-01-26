@@ -16,3 +16,5 @@
 --> sudo apt-get install jenkins
 
 --> sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+--> systemctl status Jenkins
